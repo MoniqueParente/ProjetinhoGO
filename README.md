@@ -1,3 +1,3 @@
 # ProjetinhoGO
 
-- Aprendizado utilizando APIRest + Lista de Usuários
+- Aprendizado (APIRest + Lista de Usuários + Tratativa de Erros)
