@@ -1,3 +1,3 @@
 # ProjetinhoGO
 
-- Aprendizado utilizando APIRest
+- Aprendizado utilizando APIRest + Lista de Usuários
